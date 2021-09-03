@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthewr7404
 - 👀 I’m interested in Robotics and Coding
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on NOTHING (\O_O/)
 - 📫 How to reach me Email (matthewprichman@gmail.com)
 
